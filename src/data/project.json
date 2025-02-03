@@ -1,0 +1,37 @@
+[{
+        "title": "FormBot",
+        "imageSrc": "formbot.png",
+        "description": [
+            "An interactive chatbot-based form builder with real-time analytics, leveraging the MERN stack.",
+            "Enabled dynamic form creation, data collection, and response visualization with customizable themes.",
+            "Integrated export functionality and responsive design to ensure a seamless and user-friendly experience."
+        ],
+        "skills": ["React", "Express", "Node", "MongoDB"],
+        "demo": "https://form-build-frontend-new-kv6v.vercel.app/",
+        "source": "https://github.com/justkashish/formBuild-frontend-new"
+    },
+    {
+        "title": "Pocket Notes",
+        "imageSrc": "PocketNotes.png",
+        "description": [
+            "Developed Pocket Notes, a responsive and intuitive note-taking app using React.js.",
+            "Integrated local storage for persistent data across sessions, ensuring notes are always accessible.",
+            "Enhanced user experience with responsive design and improved note organization by incorporating date and time information."
+        ],
+        "skills": ["HTML", "CSS", "Redux", "React"],
+        "demo": "https://my-notes-two-iota.vercel.app",
+        "source": "https://github.com/justkashish/My-Notes"
+    },
+    {
+        "title": "Link Trim",
+        "imageSrc": "linktrim.png",
+        "description": [
+            "Built with the MERN stack, allowing users to create unique short links, set expiration dates, and efficiently manage their URLs.",
+            " The app includes click tracking, detailed analytics, and a responsive dashboard with pagination.",
+            "Additionally, it ensures secure user authentication with JWT tokens for a seamless login experience."
+        ],
+        "skills": ["React", "Express", "Node", "MongoDB"],
+        "demo": "https://link-trim-blue.vercel.app/",
+        "source": "https://github.com/justkashish/Link-UI"
+    }
+]
