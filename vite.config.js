@@ -8,5 +8,6 @@ export default defineConfig({
         modules: {
             localsConvention: "camelCase",
         }
-    }
+    },
+    base: '/React-Portfolio/', // Add this line to specify the base URL for GitHub Pages
 })

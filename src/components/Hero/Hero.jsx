@@ -8,7 +8,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Kashish</h1>
         <p className={styles.description}>
-        I am a fresher MERN stack developer with a strong foundation in building dynamic, responsive websites and web applications. I am eager to apply my skills in MongoDB, Express.js, React.js, and Node.js to create efficient and scalable solutions. Reach out if you'd like to learn more!🚀
+        I am a fresher MERN stack developer with a strong foundation in building dynamic, responsive websites and web applications. I am eager to apply my skills in MongoDB, Express.js, React.js, Next.js, Node.js and React Native to create efficient and scalable solutions. Reach out if you'd like to learn more!🚀
         </p>
         <a href="mailto:kashishmeghani11@email.com" className={styles.contactBtn}>
           Contact Me
